@@ -48,6 +48,8 @@ git log
 ---
 # Github
 
+## git clone
+
 ---
 # Remotes
 
