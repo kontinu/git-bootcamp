@@ -38,5 +38,29 @@ git add <files to add>
 git commit -m "message"
 ```
 
+## git log
+
+```
+git log
+```
+
+
+---
+# Github
+
 ---
 # Remotes
+
+## git remote add
+
+## git remote -v
+
+## git push
+
+
+---
+# Branches
+
+
+---
+# merge/ pull requests
